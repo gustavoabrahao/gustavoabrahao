@@ -17,7 +17,8 @@
     <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina. Atualmente trabalho com Desenvolvimento Web e estudo Java/Php paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ## Entre em contato comigo 👇
 

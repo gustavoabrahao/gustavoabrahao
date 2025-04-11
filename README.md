@@ -1,31 +1,44 @@
-
-### Olá! eu sou o Gustavo Abrahão 😉
+# Gustavo Abrahão | Software Developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-abrahão-31086a291/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavooabr._/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoabrahao76@gmail.com)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoabrahao&show_icons=true&theme=merko)
+---
 
-## Tecnologias que uso no meu dia
+Desenvolvedor de Software com foco em construir soluções web robustas e escaláveis. Apaixonado por tecnologia e resolução de problemas complexos, combinando conhecimentos de frontend e backend para criar experiências de usuário eficientes e intuitivas. Atualmente cursando Ciência da Computação na UNISUL para aprofundar a base teórica.
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div><br/>
+## 🚀 Conhecimentos
 
-Estudante de Ciência da Computação na Universidade do Sul de Santa Catarina. Atualmente trabalho com Desenvolvimento Web e estudo Java/Php paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+- **Frontend Development:**
+  - HTML5, CSS3, JavaScript (ES6+)
+  - Frameworks/Bibliotecas: React
+  - Design Responsivo & Experiência do Usuário (UX)
+- **Backend Development:**
+  - Linguagens: Java, PHP
+  - Laravel, SQL
+- **Ferramentas & Metodologias:**
+  - Controle de Versão: Git, GitHub
 
-## Entre em contato comigo 👇
+## 🌱 Foco Atual & Interesses
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gustavoabrahao76@gmail.com)
+Estou sempre em busca de aprimoramento e explorando novas tecnologias. Atualmente, meu foco inclui:
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake.svg">
-</picture>
+- Desenvolvimento Web.
+- Contribuição para projetos open-source.
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavoabrahao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabrahao&layout=compact&langs_count=8&theme=onedark" alt="Gustavo's Top Languages"/>
+</p>
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>

@@ -15,7 +15,7 @@ Desenvolvedor de Software com foco em construir soluções web robustas e escal�
   - Design Responsivo & Experiência do Usuário (UX)
 - **Backend Development:**
   - Linguagens: Java, PHP
-  - Laravel, SQL
+  - SQL
 - **Ferramentas & Metodologias:**
   - Controle de Versão: Git, GitHub
 

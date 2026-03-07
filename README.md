@@ -14,7 +14,7 @@ Desenvolvedor de Software com foco em construir soluções web robustas e escal�
   - Frameworks/Bibliotecas: React
   - Design Responsivo & Experiência do Usuário (UX)
 - **Backend Development:**
-  - Linguagens: Java, PHP
+  - Linguagens: Pascal
   - SQL
 - **Ferramentas & Metodologias:**
   - Controle de Versão: Git, GitHub
@@ -25,20 +25,3 @@ Estou sempre em busca de aprimoramento e explorando novas tecnologias. Atualment
 
 - Desenvolvimento Web.
 - Contribuição para projetos open-source.
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavoabrahao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabrahao&layout=compact&langs_count=8&theme=onedark" alt="Gustavo's Top Languages"/>
-</p>
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavoabrahao/gustavoabrahao/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>

@@ -11,11 +11,11 @@ Desenvolvedor de Software com foco em construir soluções web robustas e escal�
 
 - **Frontend Development:**
   - HTML5, CSS3, JavaScript (ES6+)
-  - Frameworks/Bibliotecas: React
   - Design Responsivo & Experiência do Usuário (UX)
 - **Backend Development:**
   - Linguagens: Pascal
   - SQL
+  - Python
 - **Ferramentas & Metodologias:**
   - Controle de Versão: Git, GitHub
 
